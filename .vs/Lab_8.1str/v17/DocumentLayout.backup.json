@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_08\\ReadyToLook\\Lab_8.1str\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D41E43E-28B8-4B1B-A357-3D3216EDE401}|UnitTest1\\UnitTest1.vcxproj|D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_08\\ReadyToLook\\Lab_8.1str\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D41E43E-28B8-4B1B-A357-3D3216EDE401}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93BAB92-456F-4915-8F14-B5E0743B5410}|Lab_8.1str\\Lab_8.1str.vcxproj|D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_08\\ReadyToLook\\Lab_8.1str\\Lab_8.1str\\Lab_8.1str.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F93BAB92-456F-4915-8F14-B5E0743B5410}|Lab_8.1str\\Lab_8.1str.vcxproj|solutionrelative:Lab_8.1str\\Lab_8.1str.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_08\\ReadyToLook\\Lab_8.1str\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_08\\ReadyToLook\\Lab_8.1str\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T12:58:55.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_8.1str.cpp",
+              "DocumentMoniker": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_08\\ReadyToLook\\Lab_8.1str\\Lab_8.1str\\Lab_8.1str.cpp",
+              "RelativeDocumentMoniker": "Lab_8.1str\\Lab_8.1str.cpp",
+              "ToolTip": "D:\\NULP\\AP\\autumn_labs\u0026pract\\October\\ap_t_08\\ReadyToLook\\Lab_8.1str\\Lab_8.1str\\Lab_8.1str.cpp",
+              "RelativeToolTip": "Lab_8.1str\\Lab_8.1str.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T14:08:29.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
